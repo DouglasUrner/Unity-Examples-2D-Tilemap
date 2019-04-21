@@ -32,6 +32,12 @@ How to build a 2D world using Unity's Tilemap objects. The Tilemap engine was re
 * [Procedural dungeon generation methods and the role of Unity on them](https://bladecast.pro/unity-tutorial/dungeon-prcedural-generation-overview-unity-2018)
 * [How to procedurally generate a dungeon using the BSP method on Unity](https://bladecast.pro/unity-tutorial/how-to-procedurally-generate-a-dungeon-bsp-method-unity-tilemap)
 
+### Understanding the Underlying Concepts
+
+* [Constructing a Fractal](https://catlikecoding.com/unity/tutorials/constructing-a-fractal/)
+* [Procedural Grid](https://catlikecoding.com/unity/tutorials/procedural-grid/)
+* [Hex Map 1](https://catlikecoding.com/unity/tutorials/hex-map/part-1/)
+
 ### Finding spritesheets
 
 * Unity Asset Store
