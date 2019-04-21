@@ -38,6 +38,9 @@ How to build a 2D world using Unity's Tilemap objects. The Tilemap engine was re
 * [Procedural Grid](https://catlikecoding.com/unity/tutorials/procedural-grid/)
 * [Hex Map 1](https://catlikecoding.com/unity/tutorials/hex-map/part-1/)
 
+
+* [Unity 2D Tile-Based Isometric and Hexagonal 'Sokoban' Game](https://gamedevelopment.tutsplus.com/tutorials/unity-2d-tile-based-isometric-and-hexagonal-sokoban-game--cms-29715)
+
 ### Finding spritesheets
 
 * Unity Asset Store
