@@ -20,6 +20,7 @@ How to build a 2D world using Unity's Tilemap objects. The Tilemap engine was re
 
 * [Introduction to the New Unity 2D Tilemap System](https://www.raywenderlich.com/23-introduction-to-the-new-unity-2d-tilemap-system)
 * [Mastering Unity’s New Tilemap Editor: Building 2D Levels](https://gamedevacademy.org/mastering-unitys-new-tilemap-editor-building-2d-levels/)
+* [How to Build a Complete 2D Platformer in Unity](https://gamedevacademy.org/how-to-build-a-complete-2d-platformer-in-unity/)
 * [Tile Map Tutorial](https://www.2dtoolkit.com/doc/2.5/tilemap/tutorial.html)
 
 ### 2D Game Kit
