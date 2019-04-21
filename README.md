@@ -1,6 +1,6 @@
 # Unity-Examples-2D-Tilemap
 
-How to build a 2D world using Unity's Tilemap objects.
+How to build a 2D world using Unity's Tilemap objects. The Tilemap engine was released with Unity 2017.2, tutorials and other reference materials that refer to earlier versions of Unity or that are dated before (about) January 2018 are out of date with the "state of the art."
 
 ## Sources:
 
