@@ -14,9 +14,13 @@ How to build a 2D world using Unity's Tilemap objects. The Tilemap engine was re
 
 ## Sources:
 
+The "offical word" from Unity:
+
 * [2D Tilemap Asset Workflow: From Image to Level](https://blogs.unity3d.com/2018/01/25/2d-tilemap-asset-workflow-from-image-to-level/)
-* [Isometric 2D Environments with Tilemap](https://blogs.unity3d.com/2019/03/18/isometric-2d-environments-with-tilemap/) - Unity 2018.3
 * [Intro to 2D World building w/ Tilemap](https://unity3d.com/learn/tutorials/topics/2d-game-creation/intro-2d-world-building-w-tilemap) - Video tutorial for beginners which builds on the blog post above. Includes link to the assets.
+* [Isometric 2D Environments with Tilemap](https://blogs.unity3d.com/2019/03/18/isometric-2d-environments-with-tilemap/) - Unity 2018.3
+
+Tutorial materials from third parties:
 
 * [Introduction to the New Unity 2D Tilemap System](https://www.raywenderlich.com/23-introduction-to-the-new-unity-2d-tilemap-system)
 * [Mastering Unity’s New Tilemap Editor: Building 2D Levels](https://gamedevacademy.org/mastering-unitys-new-tilemap-editor-building-2d-levels/)
@@ -34,10 +38,13 @@ How to build a 2D world using Unity's Tilemap objects. The Tilemap engine was re
 
 ### Understanding the Underlying Concepts
 
+A *long* series of tutorials from Catlike Coding on hexagonal tiles and isometric worlds. Really good for understanding the underlying principles.
+
 * [Constructing a Fractal](https://catlikecoding.com/unity/tutorials/constructing-a-fractal/)
 * [Procedural Grid](https://catlikecoding.com/unity/tutorials/procedural-grid/)
 * [Hex Map 1](https://catlikecoding.com/unity/tutorials/hex-map/part-1/)
 
+Converting a 2D game to an isometric view:
 
 * [Unity 2D Tile-Based Isometric and Hexagonal 'Sokoban' Game](https://gamedevelopment.tutsplus.com/tutorials/unity-2d-tile-based-isometric-and-hexagonal-sokoban-game--cms-29715)
 
