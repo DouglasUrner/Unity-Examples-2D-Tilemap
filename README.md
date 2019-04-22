@@ -4,6 +4,12 @@ How to build a 2D world using Unity's Tilemap objects. The Tilemap engine was re
 
 ## Getting Started
 
+1. Clone this repository.
+1. Watch the 2nd and 3rd videos of the **Live Session: 2D World building w/ Tilemap & Cinemachine for 2D**.
+1. Launch Unity.
+1. Open the Penny Pixel project.
+1. Try them out.
+
 Items mentionoed in the tutorial videos, these are all included in the **2D Tilemap** [tutorial assets](), the links below will be helpful if you want to include them in other projects:
 
 * [Unity 2D Extras][2d-extras] - be sure that you are choosing the right branch (version).
