@@ -17,17 +17,21 @@ Items mentionoed in the tutorial videos, these are all included in the **2D Tile
 
 ## Key Points and Major Elements
 
+* Grid
+  - Parent of all Tilemaps (similar in concept to the UI Canvas)
+  - Resolutions of the tiles and the grid need to match - otherwise you will have gaps (or overlaps).
+    - Grid Cell Size: Cell size in Unity units.
+    - Sprite Pixels per Unit: the number of pixels to span a unit.
+* Tilemap  
+  There can be multiple tilemaps (background, foreground, etc.).
+  - Sort order (layers) on Tilemap renderer.
+* Tile Palatte
+* Tilemap Collider
 * Working with sprite sheets:
   - Importing
   - Slicing
   - Scaling (pixels per unit)
-* Grid
-  - Resolutions of the tiles and the grid need to match - otherwise you will have gaps (or overlaps).
-* Tilemap  
-  There can be multiple tilemaps (background, foreground, etc.).
-  - Sort order (layers) on Tilemap renderer.
-* Tilemap collider
-
+ 
 ## Sources:
 
 The "offical word" from Unity:
