@@ -2,6 +2,13 @@
 
 How to build a 2D world using Unity's Tilemap objects. The Tilemap engine was released in October of 217 in Unity 2017.2, tutorials and other reference materials that refer to earlier versions of Unity or that are dated before then are out of date with respect to the "state of the art." In Unity 2018.2 support for hexagonal tiles was added, and in Unity 2018.3 isometric 2D views got native support.
 
+## Getting Started
+
+Items mentionoed in the tutorial videos, these are all included in the **2D Tilemap** [tutorial assets](), the links below will be helpful if you want to include them in other projects:
+
+* [Unity 2D Extras][2d-extras] - be sure that you are choosing the right branch (version).
+* [Cinemachine][]
+
 ## Key Points and Major Elements
 
 * Working with sprite sheets:
@@ -32,10 +39,15 @@ The "offical word" from Unity:
   - 8: [Questions and Answers for 2D Worldbuilding](https://unity3d.com/learn/tutorials/topics/2d-game-creation/questions-and-answers-2d-worldbuilding?playlist=17093) 7:22
   
   Useful assets and tools:
-  - [Tutorial Assets](http://bit.ly/tilemaplive) Contains everything below.
-  - []() 2D Extras (clone from GitHub)
-  - []() Cinemachine (free from Unity Asset Store)
+  - [Tutorial Assets] Contains everything below.
+  - [2D Extras][2d-extras] (clone from GitHub)
+  - [Cinemachine][] (free from Unity Asset Store)
+  
 * [Isometric 2D Environments with Tilemap](https://blogs.unity3d.com/2019/03/18/isometric-2d-environments-with-tilemap/) - Unity 2018.3
+
+[ta]: http://bit.ly/tilemaplive
+[2d-extras]: 
+[cinemachine]: 
 
 Tutorial materials from third parties:
 
