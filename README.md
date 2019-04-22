@@ -9,6 +9,7 @@ How to build a 2D world using Unity's Tilemap objects. The Tilemap engine was re
   - Slicing
   - Scaling (pixels per unit)
 * Grid
+  - Resolutions of the tiles and the grid need to match - otherwise you will have gaps (or overlaps).
 * Tilemap
 * Tilemap collider
 
@@ -17,7 +18,16 @@ How to build a 2D world using Unity's Tilemap objects. The Tilemap engine was re
 The "offical word" from Unity:
 
 * [2D Tilemap Asset Workflow: From Image to Level](https://blogs.unity3d.com/2018/01/25/2d-tilemap-asset-workflow-from-image-to-level/)
-* [Intro to 2D World building w/ Tilemap](https://unity3d.com/learn/tutorials/topics/2d-game-creation/intro-2d-world-building-w-tilemap) - A seres of eight video tutorials for beginners which builds on the blog post above. Includes link to the assets.
+* [Intro to 2D World building with Tilemap](https://unity3d.com/learn/tutorials/topics/2d-game-creation/intro-2d-world-building-w-tilemap) - A seres of eight video tutorials for beginners which builds on the blog post above:
+  - []()
+  - [Core Tilemap Concepts](https://unity3d.com/learn/tutorials/topics/2d-game-creation/core-tilemap-concepts?playlist=17093) 11:33
+  - [Tilemap Collider 2D and Composite Collider 2D](https://unity3d.com/learn/tutorials/topics/2d-game-creation/tilemap-collider-2d-and-composite-collider-2d?playlist=17093) 3:59
+  - []()
+  - []()
+  - []()
+  - []()
+  - []()
+  - []() Tutorial assets.
 * [Isometric 2D Environments with Tilemap](https://blogs.unity3d.com/2019/03/18/isometric-2d-environments-with-tilemap/) - Unity 2018.3
 
 Tutorial materials from third parties:
