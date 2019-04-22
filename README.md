@@ -27,7 +27,11 @@ The "offical word" from Unity:
   - []()
   - []()
   - []()
-  - []() Tutorial assets.
+  
+  Useful assets and tools:
+  - [Tutorial Assets](http://bit.ly/tilemaplive) Contains everything below.
+  - []() 2D Extras (clone from GitHub)
+  - []() Cinemachine (free from Unity Asset Store)
 * [Isometric 2D Environments with Tilemap](https://blogs.unity3d.com/2019/03/18/isometric-2d-environments-with-tilemap/) - Unity 2018.3
 
 Tutorial materials from third parties:
