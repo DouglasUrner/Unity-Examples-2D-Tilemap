@@ -22,14 +22,14 @@ The "offical word" from Unity:
 * [2D Tilemap Asset Workflow: From Image to Level](https://blogs.unity3d.com/2018/01/25/2d-tilemap-asset-workflow-from-image-to-level/)
 * **Live Session: 2D World building w/ Tilemap & Cinemachine for 2D**  
   A seres of eight video tutorials for beginners which builds on the blog post above:
-  1. [Intro to 2D World building w/ Tilemap](https://unity3d.com/learn/tutorials/topics/2d-game-creation/intro-2d-world-building-w-tilemap) 2:34
-  1, [Core Tilemap Concepts](https://unity3d.com/learn/tutorials/topics/2d-game-creation/core-tilemap-concepts?playlist=17093) 11:33
-  1. [Tilemap Collider 2D and Composite Collider 2D](https://unity3d.com/learn/tutorials/topics/2d-game-creation/tilemap-collider-2d-and-composite-collider-2d?playlist=17093) 3:59
-  1. [Confined Follow Camera with Cinemachine For 2D](https://unity3d.com/learn/tutorials/topics/2d-game-creation/confined-follow-camera-cinemachine-2d?playlist=17093) 9:08 - make the camera follow the player using [Cinemachine]().  
-  1. [Using Rule Tiles With Tilemap](https://unity3d.com/learn/tutorials/topics/2d-game-creation/using-rule-tiles-tilemap?playlist=17093) 7:08
-  1. [Random and Animated Tilemap Tiles](https://unity3d.com/learn/tutorials/topics/2d-game-creation/random-and-animated-tilemap-tiles?playlist=17093) 13:38
-  1. [Custom Tilemap Brush To Spawn Prefabs](https://unity3d.com/learn/tutorials/topics/2d-game-creation/custom-tilemap-brush-spawn-prefabs?playlist=17093) 4:10
-  1. [Questions and Answers for 2D Worldbuilding](https://unity3d.com/learn/tutorials/topics/2d-game-creation/questions-and-answers-2d-worldbuilding?playlist=17093) 7:22
+  - 1: [Intro to 2D World building w/ Tilemap](https://unity3d.com/learn/tutorials/topics/2d-game-creation/intro-2d-world-building-w-tilemap) 2:34
+  - 2: [Core Tilemap Concepts](https://unity3d.com/learn/tutorials/topics/2d-game-creation/core-tilemap-concepts?playlist=17093) 11:33
+  - 3: [Tilemap Collider 2D and Composite Collider 2D](https://unity3d.com/learn/tutorials/topics/2d-game-creation/tilemap-collider-2d-and-composite-collider-2d?playlist=17093) 3:59
+  - 4: [Confined Follow Camera with Cinemachine For 2D](https://unity3d.com/learn/tutorials/topics/2d-game-creation/confined-follow-camera-cinemachine-2d?playlist=17093) 9:08 - make the camera follow the player using [Cinemachine]().  
+  - 5: [Using Rule Tiles With Tilemap](https://unity3d.com/learn/tutorials/topics/2d-game-creation/using-rule-tiles-tilemap?playlist=17093) 7:08
+  - 6: [Random and Animated Tilemap Tiles](https://unity3d.com/learn/tutorials/topics/2d-game-creation/random-and-animated-tilemap-tiles?playlist=17093) 13:38
+  - 7: [Custom Tilemap Brush To Spawn Prefabs](https://unity3d.com/learn/tutorials/topics/2d-game-creation/custom-tilemap-brush-spawn-prefabs?playlist=17093) 4:10
+  - 8: [Questions and Answers for 2D Worldbuilding](https://unity3d.com/learn/tutorials/topics/2d-game-creation/questions-and-answers-2d-worldbuilding?playlist=17093) 7:22
   
   Useful assets and tools:
   - [Tutorial Assets](http://bit.ly/tilemaplive) Contains everything below.
