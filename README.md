@@ -22,7 +22,7 @@ The "offical word" from Unity:
   - []()
   - [Core Tilemap Concepts](https://unity3d.com/learn/tutorials/topics/2d-game-creation/core-tilemap-concepts?playlist=17093) 11:33
   - [Tilemap Collider 2D and Composite Collider 2D](https://unity3d.com/learn/tutorials/topics/2d-game-creation/tilemap-collider-2d-and-composite-collider-2d?playlist=17093) 3:59
-  - []()
+  - [Confined Follow Camera with Cinemachine For 2D](https://unity3d.com/learn/tutorials/topics/2d-game-creation/confined-follow-camera-cinemachine-2d?playlist=17093) 9:08 - make the camera follow the player using [Cinemachine]().  
   - []()
   - []()
   - []()
