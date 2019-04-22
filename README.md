@@ -26,6 +26,8 @@ Items mentionoed in the tutorial videos, these are all included in the **2D Tile
   There can be multiple tilemaps (background, foreground, etc.).
   - Sort order (layers) on Tilemap renderer.
 * Tile Palatte
+  - Rule Tiles
+    - Provided by [2D-Extras][2d-extras]
 * Tilemap Collider
 * Working with sprite sheets:
   - Importing
