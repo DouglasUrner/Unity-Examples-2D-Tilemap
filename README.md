@@ -13,7 +13,7 @@ How to build a 2D world using Unity's Tilemap objects. The Tilemap engine was re
 Items mentionoed in the tutorial videos, these are all included in the **2D Tilemap** [tutorial assets](), the links below will be helpful if you want to include them in other projects:
 
 * [Unity 2D Extras][2d-extras] - be sure that you are choosing the right branch (version).
-* [Cinemachine][]
+* Cinemachine - install via the Package Manager (Window > Package Manager)
 
 ## Key Points and Major Elements
 
