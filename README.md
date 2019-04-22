@@ -24,7 +24,7 @@ The "offical word" from Unity:
   - [Tilemap Collider 2D and Composite Collider 2D](https://unity3d.com/learn/tutorials/topics/2d-game-creation/tilemap-collider-2d-and-composite-collider-2d?playlist=17093) 3:59
   - [Confined Follow Camera with Cinemachine For 2D](https://unity3d.com/learn/tutorials/topics/2d-game-creation/confined-follow-camera-cinemachine-2d?playlist=17093) 9:08 - make the camera follow the player using [Cinemachine]().  
   - [Using Rule Tiles With Tilemap](https://unity3d.com/learn/tutorials/topics/2d-game-creation/using-rule-tiles-tilemap?playlist=17093) 7:08
-  - []()
+  - [Random and Animated Tilemap Tiles](https://unity3d.com/learn/tutorials/topics/2d-game-creation/random-and-animated-tilemap-tiles?playlist=17093) 13:38
   - []()
   - []()
   
