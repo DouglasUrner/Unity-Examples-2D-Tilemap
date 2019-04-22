@@ -10,7 +10,7 @@ How to build a 2D world using Unity's Tilemap objects. The Tilemap engine was re
   - Scaling (pixels per unit)
 * Grid
   - Resolutions of the tiles and the grid need to match - otherwise you will have gaps (or overlaps).
-* Tilemap
+* Tilemap  
   There can be multiple tilemaps (background, foreground, etc.).
   - Sort order (layers) on Tilemap renderer.
 * Tilemap collider
